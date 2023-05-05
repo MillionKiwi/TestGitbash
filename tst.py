@@ -6,4 +6,5 @@ print("pull test")
 print("fetch test")
 print("branch checkout test")
 print("test ahead")
+print("merge test")
 
