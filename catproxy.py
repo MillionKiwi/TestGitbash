@@ -10,6 +10,8 @@ class CatProxy:
         self.cat.speak()
         print("after speak")
 
+        
+        
 kitty = Cat()
 kitty.speak()
 kitty_proxy = CatProxy(kitty)
