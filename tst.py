@@ -8,3 +8,7 @@ print("branch checkout test")
 print("test ahead")
 print("merge test")
 
+'''
+test for 3-ways
+'''
+
